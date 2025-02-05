@@ -8,6 +8,7 @@ Repositorio donde se encuentra todo lo relacionado del curso de Inteligencia Art
 ## Certificados
 ### Kaggle
 [Introduccion a la Programacion](certificados/kaggle/certificado-1-introduccion-a-la-programacion.pdf)
+
 [Python](certificados/kaggle/certificado-2-python.pdf)
 ### Otros
 [Cognitive Class - Python for Data Science](certificados/otros/IBM-PY0101EN-Certificate.pdf)
