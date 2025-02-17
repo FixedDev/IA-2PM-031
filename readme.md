@@ -12,5 +12,7 @@ Repositorio donde se encuentra todo lo relacionado del curso de Inteligencia Art
 [Python](certificados/kaggle/certificado-2-python.pdf)
 
 [Introduccion al Aprendizaje Automatico](certificados/kaggle/certificado-3-introduccion-a-aprendizaje-automatico.pdf)
+
+[Pandas](certificados/kaggle/certificado-4-pandas.pdf)
 ### Otros
 [Cognitive Class - Python for Data Science](certificados/otros/IBM-PY0101EN-Certificate.pdf)
